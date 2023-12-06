@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dbhandari07
-- 👀 I’m interested in Dev Ops
-- 🌱 I’m currently learning System Engineering and Dev Ops
-- 💞️ I’m looking to collaborate on Dev-Ops and Nutanix Projects
 - 📫 How to reach me - dipendrabhandari1990@gmail.com
 
 <!---
